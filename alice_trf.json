@@ -1,0 +1,19 @@
+{
+ "commands": {
+ "commands": [
+   {
+     "ExerciseCommand": {
+       "templateId": "2fa7fec894ed2f78a52c03d35cd2bbd283dd2f415fd6bf40510c50a6445bbd2b:Iou:IouTransfer",
+       "contractId": "00bcfcc8ed8f3d87fce29108cc45b9fa8d6b3edef79f0bb57528b1ff684def7971ca1112206fcc3ce4358dd5975f694d60839b1a74d191a92825f275ed1162e1c1fb9055ef",
+       "choice": "IouTransfer_Accept",
+       "choiceArgument": {}
+     }
+   }
+ ],
+ "userId": "alice-user",
+ "commandId": "alice-accept-eur-transfer",
+ "actAs": [
+   "Alice::12200afe3c585d9c0fb86be48c3d8fbd40742812651dc206fce5719a415af57523eb"
+ ]
+}
+}
